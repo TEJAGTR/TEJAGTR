@@ -1,7 +1,8 @@
 <!-- Hero Banner -->
 <div align="center">
 
-<h1>Hi there, I'm Tejaswan Reddy G 👋</h1>
+<!-- Gradient wave banner - change customColorList to pick a different gradient theme -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Tejaswan%20Reddy&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer&descAlignY=55&descSize=20" alt="Header banner" />
 
 <!-- Animated typing text - update the lines param with your own taglines -->
 <a href="https://git.io/typing-svg">
@@ -32,6 +33,8 @@ I'm a passionate AI & ML student who enjoys building practical projects, learnin
 
 ## 🛠️ Technical Skills
 
+<div align="center">
+
 <!-- Languages -->
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -51,6 +54,38 @@ I'm a passionate AI & ML student who enjoys building practical projects, learnin
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<!-- Uncomment and add your Portfolio link once you have one -->
+<!--
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+-->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejaswanreddyguda)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TejaGtr)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TEJAGTR)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejaswanreddyguda@gmail.com)
+
+</div>
+
+
+
+---
+
+## 
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/TEJAGTR/TEJAGTR/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 
@@ -105,37 +140,8 @@ A multilingual translation tool that translates text using the **M2M100** model,
 
 </div>
 
----
-
-## 📫 Connect With Me
-
-<!-- Uncomment and add your Portfolio/Email links once you have them -->
-<!--
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
--->
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejaswanreddyguda)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TejaGtr)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TEJAGTR)
-
 <div align="center">
 
 ⭐️ From [TEJAGTR](https://github.com/TEJAGTR)
 
 </div>
-
-<!--
-**TEJAGTR/TEJAGTR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
