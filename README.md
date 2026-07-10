@@ -91,13 +91,27 @@ I'm a passionate AI & ML student who enjoys building practical projects, learnin
 
 ## 🚀 Featured Projects
 
-### 🌐 Language Translator with Sentiment Analysis
+### 🌐 Indian Language Translator + Sentiment Analyzer
 A multilingual translation tool that translates text using the **M2M100** model, paired with sentiment analysis to interpret the emotional tone of the input. Deployed with a **Gradio** interface, generating a temporary shareable link for easy live viewing and testing.
+Translates English into 7 Indian languages (Hindi, Telugu, Tamil, Kannada, Malayalam, Gujarati, Marathi) with real-time sentiment analysis, built using Facebook's M2M100 model and Gradio.
 
 **Tech Stack:** `M2M100` `Gradio` `Python` `NLP`
 
+🔗 [View Repo](https://github.com/TEJAGTR/INDIAN-LANGUAGE-TRANSLATOR-WITH-SENTIMENT-ANALYSIS)
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/TEJAGTR/INDIAN-LANGUAGE-TRANSLATOR-WITH-SENTIMENT-ANALYSIS)
+
+### 🎙️ NLTK Text Preprocessing 
+A text preprocessing pipeline demonstrating core NLP fundamentals — tokenization, stop word removal, stemming, and POS-aware lemmatization using NLTK.
+A Gradio-based NLP app that translates English into 7 Indian languages using Facebook's M2M100 multilingual model.
+Combines translation with real-time sentiment analysis on the input text, complete with emoji indicators.
+Demonstrates practical multilingual NLP and transformer model deployment in a simple, usable interface.
+
+🔗 [View Repo](https://github.com/TEJAGTR/NLP-PREPROCESSING-NLTK)
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/TEJAGTR/NLP-PREPROCESSING-NLTK)
 <!-- Add your GitHub link here once the repo is public -->
-🔗 **GitHub:** _Coming soon_
+
 
 ---
 
